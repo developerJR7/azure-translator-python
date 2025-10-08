@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Artefatos de build (caso use)
+dist/
+build/
+*.egg-info/

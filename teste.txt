@@ -1,0 +1,5 @@
+Olá, mundo!
+Hoje o céu está azul.
+Como você está?
+Este é um teste rápido para a API do Azure Translator.
+Vamos ver se funciona corretamente.
